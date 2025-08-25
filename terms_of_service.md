@@ -1,6 +1,6 @@
 # Acoro — Terms of Service
 
-_Last updated: [Insert Date]_
+_Last updated: August 24, 2025_
 
 Welcome to **Acoro** (the “Bot”). By using Acoro, you agree to these Terms of Service (“Terms”). Please read them carefully before using the Bot. If you do not agree, you may not use Acoro.
 
@@ -28,7 +28,7 @@ You may **not** use Acoro to share or promote:
 - Content that infringes on intellectual property rights.  
 - Content that violates Discord’s or YouTube’s Terms of Service.  
 
-Violations may result in removal of content, restriction of access to Acoro, or reporting to Discord.
+Violations may result in removal of content, restriction of access to Acoro, or reporting to Discord and law enforcement.
 
 ---
 
@@ -64,4 +64,4 @@ Violations may result in removal of content, restriction of access to Acoro, or 
 
 ## 9. Contact
 For questions or concerns, you may contact us at:  
-📧 [Insert your email address here]
+📧 dannydznuts@protonmail.com
