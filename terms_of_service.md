@@ -1,6 +1,6 @@
 # Acoro — Terms of Service
 
-_Last updated: August 24, 2025_
+_Last updated: [Insert Date]_
 
 Welcome to **Acoro** (the “Bot,” “we,” “our,” or “us”). By installing, accessing, or using Acoro, you agree to these Terms of Service (“Terms”). If you do not agree, you may not use Acoro.  
 
@@ -10,12 +10,13 @@ Welcome to **Acoro** (the “Bot,” “we,” “our,” or “us”). By insta
 - **“Bot”** refers to Acoro, the Discord bot software and related services.  
 - **“User”** or **“you”** refers to any individual or entity that accesses or uses Acoro.  
 - **“Content”** means any text, images, videos, links, or other material submitted through the Bot.  
-- **“Third-Party Services”** means external platforms or services integrated with Acoro, such as YouTube or Discord.  
+- **“Third-Party Services”** means external platforms or services integrated with Acoro, such as YouTube, Discord, or Steam.  
+- **“Games”** means interactive entertainment titles, including **video games** (such as those available on platforms like Steam or other recognized distribution/streaming services) as well as **board and card games** when suggested by the community. Use of Steam-related features requires compliance with Steam’s [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/).  
 
 ---
 
 ## 2. Eligibility
-- You must comply with Discord’s [Terms of Service](https://discord.com/terms), Discord’s [Community Guidelines](https://discord.com/guidelines), and YouTube’s [Terms of Service](https://www.youtube.com/t/terms).  
+- You must comply with Discord’s [Terms of Service](https://discord.com/terms), Discord’s [Community Guidelines](https://discord.com/guidelines), YouTube’s [Terms of Service](https://www.youtube.com/t/terms), and Steam’s [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/).  
 - By using Acoro, you represent that you have the legal authority to agree to these Terms.  
 
 ---
@@ -41,7 +42,7 @@ You may **not** use Acoro to share or promote:
 - Illegal content or activities.  
 - Sexually explicit, violent, hateful, or otherwise harmful material.  
 - Content that infringes on intellectual property rights.  
-- Content that violates Discord’s or YouTube’s Terms of Service.  
+- Content that violates Discord’s, YouTube’s, or Steam’s Terms of Service.  
 
 Violations may result in removal of content, suspension of access, or reporting to Discord.  
 
@@ -54,7 +55,7 @@ Violations may result in removal of content, suspension of access, or reporting 
 ---
 
 ## 7. Third-Party Services
-- Acoro integrates with services operated by third parties (e.g., YouTube, Discord).  
+- Acoro integrates with services operated by third parties (e.g., YouTube, Discord, Steam).  
 - We are not responsible for the availability, accuracy, or compliance of third-party services.  
 - Your use of such services is subject to their respective terms.  
 
@@ -89,8 +90,8 @@ You agree to indemnify and hold harmless the developer(s) of Acoro from any clai
 ---
 
 ## 12. Governing Law & Jurisdiction
-These Terms shall be governed by and construed in accordance with the laws of [Insert Country/State].  
-You agree that any disputes will be subject to the exclusive jurisdiction of the courts in [Insert Country/State].  
+These Terms shall be governed by and construed in accordance with the laws of the United States and the State of Tennessee.  
+You agree that any disputes will be subject to the exclusive jurisdiction of the courts in the United States and the State of Tennessee.  
 
 ---
 
