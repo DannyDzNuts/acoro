@@ -1,6 +1,6 @@
 # Acoro — Terms of Service
 
-_Last updated: August 24, 2025
+_Last updated: August 24, 2025_
 
 Welcome to **Acoro** (the “Bot,” “we,” “our,” or “us”). By installing, accessing, or using Acoro, you agree to these Terms of Service (“Terms”). If you do not agree, you may not use Acoro.  
 
